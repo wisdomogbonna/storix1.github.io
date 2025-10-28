@@ -1,0 +1,48 @@
+.dashboard {
+      padding: 40px 20px;
+        text-align: center;
+        }
+
+        .dashboard h2 {
+          color: #e50914;
+            font-weight: 600;
+              margin-bottom: 25px;
+              }
+
+              .upload-box {
+                background: #fff;
+                  border-radius: 10px;
+                    padding: 30px;
+                      max-width: 400px;
+                        margin: 0 auto;
+                          box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+                          }
+
+                          .upload-box input,
+                          .upload-box textarea {
+                            width: 100%;
+                              padding: 10px;
+                                margin: 10px 0;
+                                  border-radius: 5px;
+                                    border: 1px solid #ddd;
+                                    }
+
+                                    .upload-box textarea {
+                                      resize: none;
+                                        height: 90px;
+                                        }
+
+                                        .upload-box button {
+                                          width: 100%;
+                                            padding: 12px;
+                                              background-color: #e50914;
+                                                color: #fff;
+                                                  border: none;
+                                                    border-radius: 6px;
+                                                      font-size: 16px;
+                                                        cursor: pointer;
+                                                        }
+
+                                                        .upload-box button:hover {
+                                                          background-color: #b20710;
+                                                          }

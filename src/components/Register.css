@@ -1,0 +1,55 @@
+.auth-container {
+      text-align: center;
+        padding: 60px 20px;
+          background-color: #fff;
+          }
+
+          .auth-container h1 {
+            color: #e50914;
+              font-family: "Poppins", sans-serif;
+                margin-bottom: 20px;
+                }
+
+                .auth-box {
+                  background: #fff;
+                    border-radius: 10px;
+                      padding: 25px;
+                        max-width: 350px;
+                          margin: 0 auto;
+                            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+                            }
+
+                            .auth-box input {
+                              width: 100%;
+                                padding: 10px;
+                                  margin: 10px 0;
+                                    border-radius: 5px;
+                                      border: 1px solid #ddd;
+                                        font-size: 15px;
+                                        }
+
+                                        .btn.primary {
+                                          width: 100%;
+                                            background-color: #e50914;
+                                              color: white;
+                                                border: none;
+                                                  border-radius: 6px;
+                                                    padding: 12px;
+                                                      font-size: 16px;
+                                                        cursor: pointer;
+                                                        }
+
+                                                        .btn.primary:hover {
+                                                          background-color: #b20710;
+                                                          }
+
+                                                          .link {
+                                                            display: inline-block;
+                                                              margin-top: 15px;
+                                                                color: #e50914;
+                                                                  text-decoration: none;
+                                                                  }
+
+                                                                  .link:hover {
+                                                                    text-decoration: underline;
+                                                                    }

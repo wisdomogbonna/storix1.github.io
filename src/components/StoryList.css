@@ -1,0 +1,34 @@
+.story-page {
+      padding: 40px 20px;
+        text-align: center;
+        }
+
+        .story-page h2 {
+          color: #e50914;
+            font-family: "Poppins", sans-serif;
+              margin-bottom: 20px;
+              }
+
+              .story-grid {
+                display: grid;
+                  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                    gap: 20px;
+                    }
+
+                    .story-card {
+                      background: #fff;
+                        padding: 20px;
+                          border-radius: 10px;
+                            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+                              text-align: left;
+                              }
+
+                              .story-card h3 {
+                                color: #e50914;
+                                  margin-bottom: 10px;
+                                  }
+
+                                  .price {
+                                    font-weight: bold;
+                                      color: #b20710;
+                                      }

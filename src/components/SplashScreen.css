@@ -1,0 +1,52 @@
+.splash-container {
+      display: flex;
+        flex-direction: column;
+          align-items: center;
+            justify-content: center;
+              height: 100vh;
+                background-color: white;
+                  text-align: center;
+                  }
+
+                  .logo {
+                    font-family: "Poppins", sans-serif;
+                      font-weight: 700;
+                        font-size: 48px;
+                          color: #e50914;
+                            margin-bottom: 10px;
+                            }
+
+                            .tagline {
+                              font-size: 18px;
+                                color: #333;
+                                  margin-bottom: 40px;
+                                  }
+
+                                  .buttons {
+                                    display: flex;
+                                      gap: 20px;
+                                      }
+
+                                      .btn {
+                                        border: none;
+                                          padding: 12px 25px;
+                                            border-radius: 6px;
+                                              font-size: 16px;
+                                                cursor: pointer;
+                                                  transition: 0.3s;
+                                                  }
+
+                                                  .btn.primary {
+                                                    background-color: #e50914;
+                                                      color: white;
+                                                      }
+
+                                                      .btn.secondary {
+                                                        background-color: white;
+                                                          border: 2px solid #e50914;
+                                                            color: #e50914;
+                                                            }
+
+                                                            .btn:hover {
+                                                              transform: scale(1.05);
+                                                              }
